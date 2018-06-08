@@ -1,0 +1,6 @@
+# Conclusie
+
+Uit de interviews kon ik erg veel informatie halen. Algemene informatie om een beter beeld te krijgen van de muzikanten. Maar ook concrete praktische informatie over wat voor devices en tools ze gebruiken. Daarnaast gaven ze veel voorkomende problemen aan en hadden ze zelf ook al veel ideeën over mogelijke oplossingen voor een interactieve applicatie. Deze ideeën heb ik in een mindmap gezet en uit de interviews heb ik gebruikerseisen kunnen opstellen. 
+
+Beginnende bands repeteren vaak 1x per week,  bands die al veel optreden vaak 1x per maand en niet altijd op dezelfde plek. Muzikanten spelen vaak in meerdere bands of projecten. Professionele muzikanten bereiden een repetitie vaak beter voor qua aanpak, structuur, nummers en partijen, volgorde, etc. Vaak sturen ze ideeën op voor een repetitie. Muzikanten maken gebruik van een metronoom, stemapparaat en opnameapparatuur. Daarnaast ook vaak van een appgroepje, gedeelde agenda of datumprikker, opslag voor bestanden \(google drive, dropbox, e-mail\). De standaard nummer opbouw bestaat uit couplet, refrein, couplet, refrein, brug, refrein. Oplossingen die nog niet bestaan maar waar muzikanten wel iets aan denken te hebben zijn: hulp met plannen, meer structuur in een repetitie en doelstellingen maken waar je naartoe kan werken.
+
